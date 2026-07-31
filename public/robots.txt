@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://sublimepackaging.pk/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 5
